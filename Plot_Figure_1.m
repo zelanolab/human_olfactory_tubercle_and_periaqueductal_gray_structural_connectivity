@@ -13,7 +13,7 @@ datasets = {'Figure_1B_Dataset1', 'Figure_1B_Dataset2'};
 folds = {'StdLRTub', 'StdLRAon', 'StdLRPirF', 'StdLRPirT'};
 
 % x; 47
-slice2plot = {'x', 44; 'y', 48; 'z', 32};
+slice2plot = {'x', 47; 'y', 48; 'z', 32};
 
 % threshold
 p_thr = 0.995;
