@@ -1,0 +1,6 @@
+number of inputs 4
+Indices
+1 norm_seeds_to_AON_div_waytotal
+2 norm_seeds_to_PirF_div_waytotal
+3 norm_seeds_to_PirT_div_waytotal
+4 norm_seeds_to_Tub_div_waytotal
